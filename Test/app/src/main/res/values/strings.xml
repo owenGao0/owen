@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Test</string>
+
+
+
+    <string name="message">Do something with Android</string>
+
+
+
 </resources>
